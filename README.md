@@ -2,7 +2,7 @@
 
 ## Background
 
-![Logo]Images/1-Logo.png
+![Images/1-Logo.png]
 
 This project simulates a real-world scenario with the **United States Geological Survey (USGS)**. The goal is to build interactive tools that visualize earthquake data collected globally. Using **Leaflet.js**, we plot real-time earthquake data along with tectonic plate boundaries, using heatmaps and marker clusters to enhance visibility.
 

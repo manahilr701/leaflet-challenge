@@ -2,7 +2,7 @@
 
 ## Background
 
-![Images/1-Logo.png]
+![Logo](./Images/1-Logo.png)
 
 This project simulates a real-world scenario with the **United States Geological Survey (USGS)**. The goal is to build interactive tools that visualize earthquake data collected globally. Using **Leaflet.js**, we plot real-time earthquake data along with tectonic plate boundaries, using heatmaps and marker clusters to enhance visibility.
 
@@ -22,6 +22,7 @@ The primary goal of this project is to help communicate seismic activity effecti
 ## Setup and Installation
 
 ### Prerequisites
+
 - **Mapbox API Key**. Sign up for one at [Mapbox](https://account.mapbox.com).
 
 ### Instructions

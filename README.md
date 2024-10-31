@@ -68,7 +68,9 @@
     <pre><code>cd leaflet-challenge</code></pre>
   </li>
   <li>Ensure you have internet access, as the project relies on external libraries and APIs.</li>
-  <li>Replace the <code>MAPBOX_API_KEY</code> in <code>config.js</code> with your own Mapbox API key.</li>
+  <li>1. Copy the file `static/js/config_template.js` and rename it to `config.js`.
+2. Open `config.js` and replace `"YOUR_MAPBOX_API_KEY"` with your actual Mapbox API key.</li>
+
   <li>Open <code>index.html</code> in a web browser to view the maps.</li>
 </ol>
 

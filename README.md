@@ -84,3 +84,4 @@ The USGS logo is used as part of this project to emphasize the data source and p
 
 This README provides an overview and structure for the project, describing each visualization type and linking it to the appropriate image.
 
+

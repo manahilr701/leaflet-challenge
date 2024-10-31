@@ -15,6 +15,7 @@
 
 <h2 id="project-overview">1. Project Overview</h2>
 <p>The United States Geological Survey (USGS) collects vast amounts of data about natural hazards such as earthquakes, climate change impacts, and land-use change. In this project, we use USGS earthquake data to create visualizations that make the data accessible and engaging for general audiences and government organizations. By using different types of interactive maps, we aim to present earthquake data in ways that highlight critical features, such as depth, magnitude, clustering, and tectonic activity.</p>
+<img src="Images/1-Logo.png" alt="Clustered Earthquake Map">
 
 <h2 id="technologies-used">2. Technologies Used</h2>
 <h3>Frontend:</h3>

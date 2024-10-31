@@ -33,7 +33,7 @@ All earthquake data is sourced from the USGS GeoJSON feed, updated weekly:
 ### 1. Heatmap of Earthquakes
 A heatmap visualization showing the intensity of earthquakes worldwide based on magnitude. Higher magnitudes are represented by warmer colors like red and yellow, while lower magnitudes are cooler colors like blue and green.
 
-![Heatmap of Earthquakes](./CHALLENGE%2015/Images/Heat.png)
+![Heatmap of Earthquakes](Images/Heat.png)
 
 **Code File**: `logic3.js`  
 This script fetches data from the USGS and plots earthquake intensities as heat blobs on a global scale.
@@ -41,7 +41,7 @@ This script fetches data from the USGS and plots earthquake intensities as heat 
 ### 2. Clustered Earthquake Map
 A clustered map that groups nearby earthquakes and color-codes them by depth. This view is interactive and allows users to explore clustered data points across the world.
 
-![Clustered Earthquake Map](./CHALLENGE%2015/Images/5-Advanced.png)
+![Clustered Earthquake Map](Images/5-Advanced.png)
 
 **Code File**: `logic.js`  
 This script uses `leaflet.markercluster` to manage and display earthquake clusters dynamically based on the map zoom level.
@@ -49,7 +49,7 @@ This script uses `leaflet.markercluster` to manage and display earthquake cluste
 ### 3. Basic Earthquake Map
 A simple map with circle markers representing each earthquake. The marker colors indicate the depth of the earthquake, and the size is proportional to its magnitude.
 
-![Basic Earthquake Map](./CHALLENGE%2015/Images/2-BasicMap.png)
+![Basic Earthquake Map](Images/2-BasicMap.png)
 
 **Code File**: `logic2.js`  
 This script provides a basic view of earthquake data and includes a legend for earthquake depth. Layers for tectonic plates can also be toggled in this map.
@@ -57,7 +57,7 @@ This script provides a basic view of earthquake data and includes a legend for e
 ### 4. USGS Logo
 The USGS logo is used as part of this project to emphasize the data source and purpose of this visualization project.
 
-![USGS Logo](./CHALLENGE%2015/Images/1-Logo.png)
+![USGS Logo](Images/1-Logo.png)
 
 ## Setup Instructions
 
